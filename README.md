@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CeeGitau
 - 👀 I’m interested in learning various coding languages
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on various projects to help me grow as a programmer and hopefully we can learn from each other
+- 🌱 I mostly code in Python and I am currently learning C#
+- 💞️ I’m looking to collaborating on various projects that will help me grow as a programmer and hopefully we can learn from each other
 - 📫 How to reach me ...
 
 <!---
