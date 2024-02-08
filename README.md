@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CeeGitau
-- 👀 I’m interested in Software Engineering and Cybersecurity
-- 🌱 I mostly code in Python but I am acquainted with C#, C++ and Java
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I mostly code using Java and Python, with some knowledge in C++, JavaScript, C#, HTML and CSS
 - 💞️ I’m looking to learn and grow as a programmer and having fun while I'm at it :)
 - 📫 How to reach me ...
 
