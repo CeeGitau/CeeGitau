@@ -16,5 +16,9 @@
 
 ---
 
-### 📊 Github Stats
-[![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=CeeGitau&show_icons=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeeGitau&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Celeste's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CeeGitau&layout=compact&theme=radical)
+
+![Celeste's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CeeGitau&theme=react-dark&hide_border=true)
