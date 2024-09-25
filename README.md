@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 - 💻 **Languages:** JavaScript, Python, Java, HTML, CSS
 - ⚙️ **Frameworks/Libraries:** React, Node.js, Express.js
-- 🛢️ **Databases:** MongoDB, MySQL
+- 🛢️ **Databases:** MongoDB, MySQL, Firebase
 - 🧰 **Tools & Technologies:** Firebase, Git, MS Project, Figma
 
 ---
