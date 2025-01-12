@@ -3,7 +3,7 @@
 👩‍🎓  Studying Applied Computer Technology, with a concentration in Software Engineering  
 🚀  Passionate about building intuitive, user-friendly web applications  
 🌱  Always exploring new technologies and improving my problem-solving skills  
-💭  AI and Machine Learning (ML) Enthusiast
+💭  AI and Machine Learning (ML) Enthusiast               
 📚  Open to collaboration on exciting projects and innovations  
 
 ---
