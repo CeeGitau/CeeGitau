@@ -9,10 +9,10 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 **Languages:** JavaScript, Python, Java, C#
-- ⚙️ **Frameworks/Libraries:** React, Node.js, Next.js
-- 🛢️ **Databases:** MongoDB, MySQL, Firebase
-- 🧰 **Tools & Technologies:** Firebase, Git, MS Project, MS Visio, Figma
+- 💻 **Languages:** JavaScript, Java, C#, Python
+- ⚙️ **Frameworks/Libraries:** React, Node.js, Next.js, Blazor
+- 🛢️ **Databases:** MongoDB, Firebase, MySQL
+- 🧰 **Tools & Technologies:** Git, Mongoose, RESTful APIs, State Management (Context API), MS Project, MS Visio, Figma
 
 ---
 
