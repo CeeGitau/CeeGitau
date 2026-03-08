@@ -1,6 +1,6 @@
 ### Hi there, I'm Celeste 👋
 👩‍💻  Software Engineer specializing in React and Full-stack development  
-👩‍🎓  Studying Computer Science, with a concentration in Software Engineering  
+👩‍🎓  Studied Computer Science, with a concentration in Software Engineering  
 🚀  Passionate about building intuitive, user-friendly web applications  
 🌱  Always exploring new technologies and improving my problem-solving skills  
 💭  AI and Machine Learning (ML) Enthusiast               
