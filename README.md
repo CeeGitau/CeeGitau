@@ -1,24 +1,62 @@
 ### Hi there, I'm Celeste 👋
-👩‍💻  Software Engineer specializing in React and Full-stack development  
-👩‍🎓  Studied Computer Science, with a concentration in Software Engineering  
-🚀  Passionate about building intuitive, user-friendly web applications  
-🌱  Always exploring new technologies and improving my problem-solving skills  
-💭  AI and Machine Learning (ML) Enthusiast               
-📚  Open to collaboration on exciting projects and innovations  
+
+👩‍💻 **Software Engineer** specializing in React and Full-stack development  
+👩‍🎓 Studied Computer Science, with a concentration in Software Engineering  
+🚀 Passionate about building intuitive, user-friendly web applications  
+🌱 Always exploring new technologies and improving my problem-solving skills  
+💭 AI & Machine Learning Enthusiast  
+📚 Open to collaboration on exciting projects and innovations  
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 **Languages:** JavaScript, Java, C#, Python
-- ⚙️ **Frameworks/Libraries:** React, Node.js, Next.js, Blazor
-- 🛢️ **Databases:** MongoDB, Firebase, MySQL
-- 🧰 **Tools & Technologies:** Git, Mongoose, RESTful APIs, State Management (Context API), MS Project, MS Visio, Figma
+
+<table>
+   <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br />React
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br />Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"  /><br />Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /><br />C# (.NET)
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br />Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br />Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br />MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" /><br />Firebase
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br />SQL Server
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="48" height="48" alt="Blazor" /><br />Blazor
+    </td>
+  </tr>
+</table>
+
+**🛠️ Tools & Platforms:** Git, RESTful APIs, Context API, Figma, MS Project, MS Visio, Mongoose
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeeGitau&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Analytics
 
-![Celeste's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CeeGitau&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CeeGitau&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Celeste's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CeeGitau&theme=react-dark&hide_border=true)
+![Celeste's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CeeGitau&theme=react-dark&hide_border=true)
+
+---
+
